@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/wable-j/wable-j/blob/output/github-contribution-grid-snake.gif)
+
 <!--
 **wable-j/wable-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

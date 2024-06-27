@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi am Jugal Wable 👋
 
 ![snake gif](https://github.com/wable-j/wable-j/blob/output/github-contribution-grid-snake-dark.svg)
 

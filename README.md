@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2prdndkcG1vNWhvaHNhbWZzdXJrdDd0ZjZmY21yYXF5bzhqbGp1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
 

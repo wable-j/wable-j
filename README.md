@@ -108,8 +108,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <!--- Discord Logo -->
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <!--- Gmail Logo -->
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <!--- LinkedIn Logo -->
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
@@ -127,7 +125,7 @@
     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
   </a>
   <!--- LinkedIn Logo -->
-  <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank">
+  <a href="https://www.linkedin.com/in/jugal-wable/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
   </a>
   <!--- Blog Logo -->
@@ -135,8 +133,12 @@
     <img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/>
   </a>
   <!--- Instagram Logo -->
-  <a href="https://www.instagram.com/soumyajit4419" target="_blank">
+  <a href="https://www.instagram.com/duh_its_jugal" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/>
+  </a>
+  <!--- Gmail Logo -->
+  <a href="https://www.instagram.com/duh_its_jugal" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"  height="30px"/>
   </a>
 </p>
 

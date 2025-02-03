@@ -117,8 +117,8 @@
 
 <p>
   <!--- Vercel Logo -->
-  <a href="https://soumyajit.vercel.app/" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/Soumyajit.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
+  <a href="https://final-portfolio-phi-three.vercel.app/" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/Jugal.Wable%20-%20%239146FF?style=for-the-badge&logo=appveyor&logoColor=white" height="30px" />
   </a>
   <!--- Twitter Logo -->
   <a href="https://twitter.com/soumyajit4419" target="_blank">
